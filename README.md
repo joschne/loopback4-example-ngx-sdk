@@ -1,4 +1,4 @@
-# @loopback/example-todo-list
+# example-todo-list with ngx sdk
 
 This is an example setup for creating angular 8 sdk from loopback 4 app using openapi spec and openapi-generator-cli that builds on top of `@loopback/example-todo-list`.
 
