@@ -10,7 +10,7 @@ This is an example setup for creating angular 8 sdk from loopback 4 app using op
 
 ```sh
 # install the dependencies:
-npm run install;
+npm install;
 
 # start the loopback 4 server
 npm start;
